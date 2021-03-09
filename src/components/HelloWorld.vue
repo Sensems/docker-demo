@@ -1,12 +1,12 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }} Sensems HEHE</h1>
+    <h1>{{ msg }} Sensems </h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Hello',
   props: {
     msg: String
   }
